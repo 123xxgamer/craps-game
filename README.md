@@ -2,10 +2,13 @@
 A simple fun version of the traditional dice game "craps". Something to play offline when you're bored (or have a bet to settle :) ). 
 - `r` to reset
 - space to play a round
+- Lose screen!
+- Dynamic background color indicates state of game
 
 Coming soon:
 - More game variants
 - Customization
+- High score tracking
 
 
 
